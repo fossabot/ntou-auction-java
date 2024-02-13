@@ -2,6 +2,7 @@
 [![CodeQL](https://github.com/NTOU-Auction/ntou-auction-java/actions/workflows/codeql.yml/badge.svg)](https://github.com/NTOU-Auction/ntou-auction-java/actions/workflows/codeql.yml)
 [![Java CI/CD with Maven and Docker for Dev](https://github.com/NTOU-Auction/ntou-auction-java/actions/workflows/docker.yml/badge.svg)](https://github.com/NTOU-Auction/ntou-auction-java/actions/workflows/docker.yml)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/a77e36cfbae24597ada2297bcf6d55aa)](https://app.codacy.com/gh/NTOU-Auction/ntou-auction-java/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkeke125%2Fntou-auction-java.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkeke125%2Fntou-auction-java?ref=badge_shield)
 
 [![GitHub release](https://img.shields.io/github/release/NTOU-Auction/ntou-auction-java.svg)](https://github.com/NTOU-Auction/ntou-auction-java/releases/latest)
 ![GitHub top language](https://img.shields.io/github/languages/top/NTOU-Auction/ntou-auction-java)
@@ -157,3 +158,7 @@ server {
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkeke125%2Fntou-auction-java.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkeke125%2Fntou-auction-java?ref=badge_large)
